@@ -64,3 +64,10 @@ Some customers consistently received late or incomplete deliveries.
 The average delivery delay was 1.69 days beyond the promised date.
 
 Cities like Ahmedabad showed relatively better service rates compared to others.
+
+##  Author
+
+**Maira Nawaz**
+
+[LinkedIn](https://www.linkedin.com/in/mairanawaz/) | [Kaggle](https://www.kaggle.com/mairanawaz) | [Github](https://github.com/Maira-Nawaz)
+
